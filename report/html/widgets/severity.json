@@ -1,0 +1,21 @@
+[ {
+  "uid" : "6c847adfb09fc042",
+  "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[xiaoming]",
+  "time" : {
+    "start" : 1560339344737,
+    "stop" : 1560339382412,
+    "duration" : 37675
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "80b78045cccf34a4",
+  "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[hello1]",
+  "time" : {
+    "start" : 1560339296846,
+    "stop" : 1560339338584,
+    "duration" : 41738
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

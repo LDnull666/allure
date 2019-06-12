@@ -1,0 +1,74 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560339296846" stop="1560339382412">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1560339296846" status="passed" stop="1560339338584">
+      <name>C:\Users\think\allure和pytest结合使用\scripts.test_search.TestSearch.test_search[hello1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="812-MainThread"/>
+        <label name="host" value="LAPTOP-NBO5OD58"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1560339317695" status="passed" stop="1560339318346">
+          <name>点击搜索</name>
+          <title>点击搜索</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1560339318346" status="passed" stop="1560339335383">
+          <name>输入关键字</name>
+          <title>输入关键字</title>
+          <attachments>
+            <attachment source="c5d33eed-0d3c-411b-916b-c495141b842b-attachment.txt" title="关键字:" type="text/plain"/>
+            <attachment source="6f647fee-522e-465a-ac0e-7123fc0f580b-attachment.png" title="截图:" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1560339338386" status="passed" stop="1560339338570">
+          <name>点击返回</name>
+          <title>点击返回</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1560339344737" status="passed" stop="1560339382412">
+      <name>C:\Users\think\allure和pytest结合使用\scripts.test_search.TestSearch.test_search[xiaoming]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="812-MainThread"/>
+        <label name="host" value="LAPTOP-NBO5OD58"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1560339362585" status="passed" stop="1560339364133">
+          <name>点击搜索</name>
+          <title>点击搜索</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1560339364133" status="passed" stop="1560339379252">
+          <name>输入关键字</name>
+          <title>输入关键字</title>
+          <attachments>
+            <attachment source="ebe5e836-aff4-421e-ad5e-f96084e12bd5-attachment.txt" title="关键字:" type="text/plain"/>
+            <attachment source="16f8ce27-747e-4939-b6a0-630493771b04-attachment.png" title="截图:" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1560339382254" status="passed" stop="1560339382404">
+          <name>点击返回</name>
+          <title>点击返回</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

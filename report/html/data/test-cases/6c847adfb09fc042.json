@@ -1,0 +1,127 @@
+{
+  "uid" : "6c847adfb09fc042",
+  "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[xiaoming]",
+  "fullName" : "scripts.C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[xiaoming]",
+  "historyId" : "c01448baf416308783f987382e281b81",
+  "time" : {
+    "start" : 1560339344737,
+    "stop" : 1560339382412,
+    "duration" : 37675
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击搜索",
+      "time" : {
+        "start" : 1560339362585,
+        "stop" : 1560339364133,
+        "duration" : 1548
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入关键字",
+      "time" : {
+        "start" : 1560339364133,
+        "stop" : 1560339379252,
+        "duration" : 15119
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "62985a771ead25e4",
+        "name" : "关键字:",
+        "source" : "62985a771ead25e4.txt",
+        "type" : "text/plain",
+        "size" : 8
+      }, {
+        "uid" : "b487e5dccb7b8b9a",
+        "name" : "截图:",
+        "source" : "b487e5dccb7b8b9a.png",
+        "type" : "image/png",
+        "size" : 41942
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击返回",
+      "time" : {
+        "start" : 1560339382254,
+        "stop" : 1560339382404,
+        "duration" : 150
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-NBO5OD58"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "812-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[xiaoming]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6c847adfb09fc042.json",
+  "parameterValues" : [ ]
+}

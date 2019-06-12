@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-NBO5OD58",
+    "children" : [ {
+      "name" : "812-MainThread",
+      "children" : [ {
+        "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[xiaoming]",
+        "uid" : "6c847adfb09fc042",
+        "parentUid" : "6deadf3b7b977ef0c05f224abc50dc7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560339344737,
+          "stop" : 1560339382412,
+          "duration" : 37675
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[hello1]",
+        "uid" : "80b78045cccf34a4",
+        "parentUid" : "6deadf3b7b977ef0c05f224abc50dc7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560339296846,
+          "stop" : 1560339338584,
+          "duration" : 41738
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6deadf3b7b977ef0c05f224abc50dc7f"
+    } ],
+    "uid" : "75e4886c7006264e3c6d3fc0a8e1b283"
+  } ]
+}

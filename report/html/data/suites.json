@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[hello1]",
+      "uid" : "80b78045cccf34a4",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560339296846,
+        "stop" : 1560339338584,
+        "duration" : 41738
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[xiaoming]",
+      "uid" : "6c847adfb09fc042",
+      "parentUid" : "af586ea5ffb1b57fad0f98a55a6d147c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560339344737,
+        "stop" : 1560339382412,
+        "duration" : 37675
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

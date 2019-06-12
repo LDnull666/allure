@@ -1,0 +1,33 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[hello1]",
+      "uid" : "80b78045cccf34a4",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560339296846,
+        "stop" : 1560339338584,
+        "duration" : 41738
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "C:\\Users\\think\\allure和pytest结合使用\\scripts.test_search.TestSearch.test_search[xiaoming]",
+      "uid" : "6c847adfb09fc042",
+      "parentUid" : "8083a48773cbfbc2897cb0336273acc5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1560339344737,
+        "stop" : 1560339382412,
+        "duration" : 37675
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8083a48773cbfbc2897cb0336273acc5"
+  } ]
+}

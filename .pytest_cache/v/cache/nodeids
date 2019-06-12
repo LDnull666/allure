@@ -1,0 +1,4 @@
+[
+  "scripts/test_search.py::TestSearch::()::test_search[hello1]",
+  "scripts/test_search.py::TestSearch::()::test_search[xiaoming]"
+]
